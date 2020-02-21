@@ -15,11 +15,12 @@ Agraïments al grup [Python Girona](https://pythongirona.cat/) per la feina damu
 
 ## Xerrades del "Python Meetup Mallorca"
 
-Propera trobada **28/11/2019** :: Reboot
+Propera trobada **28/02/2020** :: Ciència Pythonica
 
 Xerrades realitzades i planificació de les properes
 
 - [28/11/2019 - PyMallorca#1](xerrades/2019/11) **Reboot**
+- [28/11/2020 - PyMallorca#2](xerrades/2020/02) **Ciència Pythonica**
 
 -----------------
 
