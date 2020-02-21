@@ -11,4 +11,4 @@ Ens veurem al [Auditorium del Parc Bit](https://goo.gl/maps/CQFXTUEavbiHmnSq7), 
 - `20:30 - 20:40`  *Ligthing Talk - TBD* 
 - 
 
-[Meetup](https://www.meetup.com/es-ES/Mallorca-Python-Meetup/events/266344409/)
+[Meetup](https://www.meetup.com/es-ES/Mallorca-Python-Meetup/events/268882056/)
